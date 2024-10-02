@@ -1,6 +1,8 @@
 import boto3
 import json
 
+#testing..
+
 # Initialize the Bedrock Runtime client
 bedrock_runtime = boto3.client('bedrock-runtime', region_name='us-east-1')
 
